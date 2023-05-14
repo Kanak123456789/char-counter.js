@@ -1,1 +1,0 @@
-# char-counter.js
